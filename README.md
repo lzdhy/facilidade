@@ -1,28 +1,4 @@
 # facilidade pra vida :smile: 
-## Badges
-
-<table>
-  <tr>
-    <td>
-      Gerador
-    </td>
-    <td>
-       <a href="https://shields.io/">
-          shields.io
-       </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Fonte
-    </td>
-    <td>
-       <a href="https://github.com/badges/shields">
-          badges/shields
-       </a>
-    </td>
-  </tr>
-</table>
 
 ## Social
 <table>
